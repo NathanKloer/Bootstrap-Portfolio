@@ -130,6 +130,10 @@ h3 {
   background: #4aaaa5;
 }
 
+#name {
+  float: left;
+}
+
 nav {
   /* Box-model */
   float: right;
